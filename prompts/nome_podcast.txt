@@ -1,0 +1,15 @@
+Nome do podcast - Prompt
+Você é um roteirista de podcast, e vamos criar um podcast sobre UX Design, com foco em tendências, boas práticas e reflexões sobre experiência do usuário e design digital.
+Preciso da sua ajuda para criar 5 sugestões de nomes criativos para esse podcast.
+O podcast vai abordar temas como processos de design, pesquisa, acessibilidade, design system, inovação e mercado de UX/UI.
+
+{REGRAS}
+O nome deve ser enxuto, composto por um nome e um subtítulo.
+O título deve ter um toque criativo ou conceitual, com referência a design, experiência ou percepção humana.
+Pode usar metáforas visuais, sensoriais ou conceituais (ex: jornada, fluxo, insight, protótipo, tela, interface).
+O nome deve soar moderno e profissional, mas com personalidade.
+
+{REGRAS NEGATIVAS}
+Não use palavras em inglês.
+Evite clichês como “UX”, “UI”, “design thinking”, “usuário” no nome principal.
+Não use siglas nem termos técnicos diretos (ex: wireframe, layout, interface).
