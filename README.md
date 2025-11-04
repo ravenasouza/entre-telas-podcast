@@ -10,8 +10,8 @@ O objetivo é explorar como a inteligência artificial pode apoiar processos cri
 
 ## 🧠 Tecnologias e IAs Utilizadas
 - **ChatGPT (OpenAI)** – para criação de roteiro e prompts  
-- **DALL·E / Midjourney / Leonardo AI** – para geração de capas e identidade visual  
-- **IA de Voz (opcional)** – para sintetizar narração do episódio  
+- **Midjourney** – para geração de capa  
+- **ElevenLabs** – para sintetizar narração do episódio  
 
 
 ## 🗂️ Estrutura do Projeto
