@@ -1,15 +1,21 @@
-Episódio de Podcast
-Episódio 1 – Por que boas experiências começam com empatia?
+Episódio de Podcast – Prompt
 
-[INTRODUÇÃO]
-Você já parou pra pensar em quantas vezes o design mudou o seu dia sem você perceber? Desde pedir comida por um app até escolher uma música — tudo é experiência. Mas o que faz uma experiência ser realmente boa? Hoje, a gente vai falar sobre algo que é o coração do design: a empatia.
+Você é um roteirista de podcast, e vamos criar um roteiro para o podcast “Entre Telas – Histórias que moldam experiências”, focado em UX Design e experiências digitais.
+O público-alvo são profissionais e estudantes de design, produto e tecnologia que querem aprender sobre processos, tendências e boas práticas em UX/UI de forma leve e inspiradora.
 
-[TEMA PRINCIPAL]
-Empatia é muito mais do que “se colocar no lugar do outro”. É entender o que o usuário sente, precisa e espera — mesmo quando ele não diz nada. Em UX, isso aparece em pesquisas, testes, entrevistas e até em pequenas decisões de interface. Quando o designer entende o contexto de quem usa, o produto deixa de ser apenas funcional e passa a ser humano.
+O formato do roteiro deve ser dividido em:
+[INTRODUÇÃO] [TEMA PRINCIPAL] [INSIGHT PRÁTICO] [FINALIZAÇÃO]
 
-[INSIGHT PRÁTICO]
-Uma forma simples de praticar empatia no dia a dia é observar. Veja como as pessoas interagem com produtos, aplicativos ou serviços. Anote o que gera frustração, o que traz conforto, e o que surpreende. Essa observação vira insight — e é o primeiro passo para criar algo realmente significativo.
+{REGRAS}
+Em [INTRODUÇÃO], crie uma abertura envolvente, com tom de conversa e uma pergunta ou reflexão que conecte com o tema.
+Em [TEMA PRINCIPAL], desenvolva o assunto central (ex: acessibilidade, pesquisa, design system, emoções no design).
+Em [INSIGHT PRÁTICO], traga uma dica, exemplo real ou ferramenta útil que o público possa aplicar no dia a dia.
+Em [FINALIZAÇÃO], encerre de forma inspiradora e descontraída, com uma assinatura pessoal como:
+ “Eu sou a Ravena, e esse foi o Entre Telas dessa semana.”
+Use uma linguagem acessível e próxima, sem termos excessivamente técnicos.
+O episódio deve ser curto (até 5 minutos) e fluido, parecendo uma conversa individual.
 
-[FINALIZAÇÃO]
-Lembre-se: design não é sobre telas, é sobre pessoas. E cada toque, clique ou gesto é uma oportunidade de melhorar o dia de alguém.
-Eu sou a Ravena, e esse foi o Entre Telas dessa semana. Até o próximo episódio!
+{REGRAS NEGATIVAS}
+Não use jargões técnicos nem explicações muito complexas.
+Não use inglês desnecessariamente.
+Evite tom de aula ou tutorial.
