@@ -1,0 +1,4 @@
+Capa Podcast - prompt
+🎨 Realistic Version
+[create a podcast cover image] + [modern, minimalist concept inspired by UX Design, creativity, and digital experiences] + [composition with a microphone, laptop, tablet, and floating interface elements like buttons, windows, and icons] + [soft, elegant color palette in shades of blue, lilac, and coral, representing innovation and empathy] + [female host, young woman smiling with headphones, cozy creative workspace with soft cinematic lighting and blurred background]
+camera settings f/4, 1/80s, ISO 200, soft cinematic lighting, volumetric light, global illumination, ultra-high resolution, realistic color filter, 16K photo processing, cinematic tone, ultra detailed, warm reflections —ar 1:1 —v 5.2
