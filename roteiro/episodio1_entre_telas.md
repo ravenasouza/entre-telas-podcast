@@ -1,0 +1,23 @@
+# Episódio 1 – Por que boas experiências começam com empatia?
+
+### **INTRODUÇÃO**
+Você já parou pra pensar em quantas vezes o design mudou o seu dia sem você perceber? 
+Desde pedir comida por um app até escolher uma música — tudo é experiência. 
+Mas o que faz uma experiência ser realmente boa? Hoje, a gente vai falar sobre algo que é o coração do design: a empatia.
+
+### **TEMA PRINCIPAL**
+Empatia é muito mais do que “se colocar no lugar do outro”. 
+É entender o que o usuário sente, precisa e espera — mesmo quando ele não diz nada. 
+Em UX, isso aparece em pesquisas, testes, entrevistas e até em pequenas decisões de interface. 
+Quando o designer entende o contexto de quem usa, o produto deixa de ser apenas funcional e passa a ser humano.
+
+### **INSIGHT PRÁTICO**
+Uma forma simples de praticar empatia no dia a dia é observar. 
+Veja como as pessoas interagem com produtos, aplicativos ou serviços. 
+Anote o que gera frustração, o que traz conforto, e o que surpreende. 
+Essa observação vira insight — e é o primeiro passo para criar algo realmente significativo.
+
+### **FINALIZAÇÃO**
+Lembre-se: design não é sobre telas, é sobre pessoas. 
+E cada toque, clique ou gesto é uma oportunidade de melhorar o dia de alguém.
+Eu sou a Ravena, e esse foi o Entre Telas dessa semana. Até o próximo episódio!
