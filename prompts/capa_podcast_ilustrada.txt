@@ -1,0 +1,4 @@
+Capa Podcast - prompt
+🎨 Illustrated / 3D Minimalist Version
+[create a 3D flat illustration podcast cover] + [UX Design inspired scene with geometric shapes, floating UI components, and a stylized female host with headphones and microphone] + [soft gradients and pastel tones of coral, blue, and cream] + [minimalist composition, smooth shadows, clean interface-inspired layout, modern typography]
+style: 3D minimal illustration, flat design, soft lighting, isometric perspective, smooth color transitions, highly aesthetic composition —ar 1:1 —v 5.2
